@@ -17,6 +17,7 @@ Pepse Game is a Java-based game where the player controls a gimmick that can run
 3. Press the space button to make the gimmick jump.
 4. Manage the gimmick's energy by standing still or eating fruits to avoid running out of energy.
 5. Stay within the screen bounds to avoid losing the game.
+
 ## Important Note:
 once you have the DanoGameLab package ready,make sure you include The DanoGameLab.jar dependency in your project structure.
 If you faced any problem reloading the game,I'm here to help.Fell free to contact me!
