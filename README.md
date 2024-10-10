@@ -12,7 +12,7 @@ Pepse Game is a Java-based game where the player controls a gimmick that can run
 - **Boundaries:** Ensure the gimmick does not go beyond screen bounds to avoid losing the game.
 
 ## How to Play
-1.Run the PepeseGameManager.java file.
+1. Run the PepeseGameManager.java file.
 2. Use the arrow keys to move the gimmick left or right.
 3. Press the space button to make the gimmick jump.
 4. Manage the gimmick's energy by standing still or eating fruits to avoid running out of energy.
